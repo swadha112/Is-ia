@@ -1,11 +1,11 @@
-_**Social-Engineer Toolkit (SET) Implementation**__
+_**Social-Engineer Toolkit (SET) Implementation**_
 
 **Team Members**
 1. Swadha Khatod
 2. Anuj Parwal
 3. Atharv Bhosale
 
-**Project Description**
+**Project Description:** 
 This project focuses on the implementation and exploration of the Social-Engineer Toolkit (SET), a framework designed for social engineering attacks, including phishing and credential harvesting. The primary goal was to understand how SET can simulate real-world social engineering scenarios and educate individuals on how to protect against such attacks.
 
 **What We Did**
