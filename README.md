@@ -17,5 +17,9 @@ This project focuses on the implementation and exploration of the Social-Enginee
      * Successfully cloned a website using SET to simulate a phishing attack.
      * Configured the IP address and network settings for POST back functionality to capture credentials entered by users.
      * Tested the cloned phishing page locally and on the network to ensure it worked as expected.
+3. QR Code Phishing Attack:
+     * Used SET’s QRCode Attack Vector to generate a malicious QR code embedding a phishing URL.
+     * Configured the attack to redirect users to a cloned phishing page upon scanning the QR code.
+     * Tested the QR code delivery via email, printed media, and social platforms to assess potential attack effectiveness.
 3. Documentation:
      * Documented a step-by-step guide for installing, configuring, and using SET for credential harvesting attacks.
